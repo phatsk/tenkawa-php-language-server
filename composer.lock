@@ -59,16 +59,16 @@
         },
         {
             "name": "composer/xdebug-handler",
-            "version": "1.3.1",
+            "version": "1.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/xdebug-handler.git",
-                "reference": "dc523135366eb68f22268d069ea7749486458562"
+                "reference": "d17708133b6c276d6e42ef887a877866b909d892"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/xdebug-handler/zipball/dc523135366eb68f22268d069ea7749486458562",
-                "reference": "dc523135366eb68f22268d069ea7749486458562",
+                "url": "https://api.github.com/repos/composer/xdebug-handler/zipball/d17708133b6c276d6e42ef887a877866b909d892",
+                "reference": "d17708133b6c276d6e42ef887a877866b909d892",
                 "shasum": ""
             },
             "require": {
@@ -99,7 +99,7 @@
                 "Xdebug",
                 "performance"
             ],
-            "time": "2018-11-29T10:59:02+00:00"
+            "time": "2019-01-28T20:25:53+00:00"
         },
         {
             "name": "eloquent/phpstan-phony",
@@ -362,12 +362,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/JetBrains/phpstorm-stubs.git",
-                "reference": "f0b20eff2715d4c423f7f9baff922836342b2a76"
+                "reference": "c19afae23174450f85953eb1ae90e29c9269d80c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JetBrains/phpstorm-stubs/zipball/f0b20eff2715d4c423f7f9baff922836342b2a76",
-                "reference": "f0b20eff2715d4c423f7f9baff922836342b2a76",
+                "url": "https://api.github.com/repos/JetBrains/phpstorm-stubs/zipball/c19afae23174450f85953eb1ae90e29c9269d80c",
+                "reference": "c19afae23174450f85953eb1ae90e29c9269d80c",
                 "shasum": ""
             },
             "require-dev": {
@@ -393,7 +393,7 @@
                 "stubs",
                 "type"
             ],
-            "time": "2019-01-22T15:26:43+00:00"
+            "time": "2019-01-28T15:28:25+00:00"
         },
         {
             "name": "league/html-to-markdown",
